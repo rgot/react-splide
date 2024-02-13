@@ -7,6 +7,7 @@
   "main": "dist/js/react-splide.cjs.js",
   "module": "dist/js/react-splide.esm.js",
   "types": "dist/types/index.d.ts",
+  "type": "module",
   "keywords": [
     "splide",
     "slider",
